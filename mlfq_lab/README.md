@@ -1,4 +1,4 @@
-# Simulador MLFQ en C
+# Simulador de MLFQ
 
 Este proyecto implementa un scheduler **Multi-Level Feedback Queue (MLFQ)** con:
 
